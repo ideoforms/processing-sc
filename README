@@ -1,0 +1,11 @@
+SuperCollider client for Processing
+----------------------------------------------------------------------
+A Processing library to interface with the SuperCollider synthesis engine.
+
+This library provides a simple approach to interfacing with the powerful
+SuperCollider sound synthesis engine. It provides objects to encapsulate common
+functions such as creating and manipulating Synth, Buffer and Bus objects. 
+
+More info, examples, etc:
+
+	http://www.erase.net/projects/processing-sc/
